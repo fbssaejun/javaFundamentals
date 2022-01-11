@@ -32,6 +32,7 @@ public class DataTypes {
         byte a = 1;
         byte b = a;
         a = 2;
+        //Still prints b = 1
         System.out.println(b);
     }
 }
