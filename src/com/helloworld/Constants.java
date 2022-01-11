@@ -5,6 +5,6 @@ public class Constants {
         //'final' tell compiler this variable is a constant
         final float pi = 3.14F;
         //Cannot assign pi to a constant
-        pi = 1;
+        //pi = 1;
     }
 }
